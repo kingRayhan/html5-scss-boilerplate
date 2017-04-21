@@ -551,9 +551,9 @@ a {
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/King\%20Rayhan\/Desktop\/New\%20folder\/html-boilarplate\/assets\/styles\/base\/_typography\.scss}line{font-family:\0000317}}
 h1, h2, h3, h4, h5, h6 {
   color: #444444;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
-  font-weight: 300;
+  font-weight: 700;
 }
 
 /** ----------------------------------- borders ----------------------------------- */
