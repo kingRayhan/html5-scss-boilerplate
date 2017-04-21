@@ -2,19 +2,22 @@
  * Basic typography style for copy text
  */
 body {
-  color: $body-color;
-  font-family: $text-font-stack;
+  color: $dark-grey;
+  font-family: $font-roboto;
+  font-style: normal;
+  font-weight: 400;
   font-size: $base-font-size;
 }
-
 p{
-	color: $p-color;
+	color: $dark-grey;
 }
-
 a{
 	color: $a-color;
 }
-
 h1, h2, h3, h4, h5, h6{
-	color: $h-color;
+  color: $dark-grey;
+  // font-family: $font-roboto;
+  // font-style: normal;
+  // font-weight: 700;
+  @include light-condensed;
 }
