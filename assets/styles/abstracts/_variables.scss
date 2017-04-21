@@ -17,13 +17,10 @@ $p-color: #333; // <p> tag color
 $h-color: #111; // headings color
 $a-color: #337ab7; // links color
 
-//$color-scheme: ######
-
+//$color-scheme: @@@@
 
 // Font sizes
 $base-font-size: 14px;
-
-
 
 
 /// Copy text color
@@ -55,7 +52,7 @@ $breakpoints: (
   'small': 320px,
   'medium': 768px,
   'large': 1024px,
-) !default;
+);
 
 
 /// Relative or absolute URL where all assets are served from
