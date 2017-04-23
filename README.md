@@ -5,7 +5,7 @@
 git clone https://github.com/kingRayhan/html5-scss-boilerplate.git
 ```
 
-##Navigate to project directory
+## Navigate to project directory
 ```
 cd html5-scss-boilerplate
 ```
