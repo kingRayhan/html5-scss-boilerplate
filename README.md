@@ -16,4 +16,4 @@ sass --watch assets/styles/style.scss:style.css
 ```
 
 
-<img src="http://image.prntscr.com/image/2d4f4ba437fc4ca1a734c401339935b0.png">
+<img src="http://i.imgur.com/iLdXZgz.png">
