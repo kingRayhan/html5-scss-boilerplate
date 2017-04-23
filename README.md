@@ -31,8 +31,11 @@ sass --watch assets/styles/style.scss:style.css
 # Assets directory difination
 
 * **image/** - Contains all images
-* **plugins/** - All third-party libraries like wow.js , animate.css , bootstrap will be here. By default I included 4 libraries. They are -
-  * [bootstrap](https://github.com/twbs/bootstrap)
+* **plugins/** - All third-party libraries like wow.js , animate.css , bootstrap will be here. By default this framework included 4 libraries. They are -
+  * [Twitter Bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+  * [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic font and CSS toolkit
+  * [jquery](https://github.com/jquery/jquery) - Javascript library for make javascript easy
+  * [JQuery MeanMenu](https://github.com/meanthemes/meanMenu) - Jquery plugin for responsive mobile menu.
 * **styles/**
   * **style.scss** - Contains all scss pertials
   * **abstracts/**
