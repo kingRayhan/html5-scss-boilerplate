@@ -30,4 +30,6 @@ sass --watch assets/styles/style.scss:style.css
 
 # Assets directory difination
 
-* **image/s**
+* **image/** - Contains all images
+* **plugins/** - All third-party libraries like wow.js , animate.css , bootstrap will be here. By default I included 4 libraries.
+* **
