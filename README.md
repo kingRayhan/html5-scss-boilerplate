@@ -44,9 +44,5 @@ sass --watch assets/styles/style.scss:style.css
     * **_fonts.scss** - This file contains all @font-face declarations, if any.
     * **_helpers.scss** - This file contains CSS helper classes.
     * **_typography.scss** - Basic typography style for copy text  
-   * **base/**
-    * **_base.scss** - This file contains very basic styles.
-    * **_fonts.scss** - This file contains all @font-face declarations, if any.
-    * **_helpers.scss** - This file contains CSS helper classes.
-    * **_typography.scss** - Basic typography style for copy text
+   * **components/** - This directory will holds your project's components partials scss files such as `_buttons.scss` , `_tab.scss` , `_accordion.scss` ...
     
