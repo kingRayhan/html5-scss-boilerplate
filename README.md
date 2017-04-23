@@ -25,3 +25,9 @@ sass --watch assets/styles/style.scss:style.css
 <br>
 
 > All assets file like images , javascripts , scss including third-party libraries will be in the `assets` folder. Only markup files ( .html , .php , .rb , .asp ...) and main style sheet ( style.css which will come in after compiling scss files ).
+
+
+
+# Assets directory difination
+
+* **image/s**
