@@ -1,6 +1,6 @@
 # HTML5 SCSS Boilerplate
 
-### get it
+### Clone the repo for your project
 ```
 git clone https://github.com/kingRayhan/html5-scss-boilerplate.git
 ```
