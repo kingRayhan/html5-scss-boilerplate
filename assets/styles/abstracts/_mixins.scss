@@ -45,6 +45,27 @@
   display: inline-block;
 }
 
+/// Breakpoints map
+/// @prop {String} keys - Keys are identifiers mapped to a given length
+/// @prop {Map} values - Values are actual breakpoints expressed in pixels
+$breakpoints: (
+  'small': 320px,
+  'medium': 768px,
+  'large': 1024px,
+);
+
+
+@mixin media($media){
+  @media all and (max-width: #{map-get($breakpoints,#{$media})}){
+    @content
+  }
+}
+@mixin media-width($media-width){
+  @media all and (max-width: #{$media-width}px){
+    @content
+  }
+}
+
 
 
 

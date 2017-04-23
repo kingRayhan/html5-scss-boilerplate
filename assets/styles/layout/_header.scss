@@ -1,3 +1,35 @@
 // -----------------------------------------------------------------------------
 // This file contains all styles related to the header of the site/application.
 // -----------------------------------------------------------------------------
+
+
+.project-name{
+	padding: 15px 0;
+	width: 75%;
+	margin: 35px auto;
+	@include mboxshadow(4);
+	h1{
+		font-size: 75px;
+		@include media-width(1999){
+			font-size: 60px;
+		}
+		@include media-width(991){
+			font-size: 45px;
+		}
+		@include media-width(717){
+			font-size: 40px;
+		}
+		@include media-width(642){
+			font-size: 30px;
+		}
+		@include media-width(400){
+			font-size: 25px;
+		}
+		@include media-width(341){
+			font-size: 20px;
+		}
+	}
+	@include media-width(599){
+		width: 95%;
+	}
+}
