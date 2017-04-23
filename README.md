@@ -18,7 +18,7 @@ sass --watch assets/styles/style.scss:style.css
 
 
 # File architecture
-<img src="http://i.imgur.com/iLdXZgz.png">
+<img src="http://i.imgur.com/yRp0ZSG.png">
 
 <br>
 <br>
