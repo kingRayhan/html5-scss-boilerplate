@@ -62,6 +62,7 @@ $breakpoints: (
 }
 @mixin media-width($media-width){
   @media all and (max-width: #{$media-width}px){
+    transition: .5s; // animate when window resizing
     @content
   }
 }
