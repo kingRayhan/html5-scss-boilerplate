@@ -19,3 +19,9 @@ sass --watch assets/styles/style.scss:style.css
 
 # File tree
 <img src="http://i.imgur.com/iLdXZgz.png">
+
+<br>
+<br>
+<br>
+
+All assets file like images , javascripts , scss including third-party libraries will be in the `assets` folder.
