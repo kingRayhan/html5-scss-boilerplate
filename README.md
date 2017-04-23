@@ -39,4 +39,14 @@ sass --watch assets/styles/style.scss:style.css
     * **_mixins.scss** - This file contains all application-wide Sass mixins.
     * **_mixins.scss** - This file contains all application-wide Sass mixins.
     * **_variables.scss** - This file contains all application-wide Sass variables.
+  * **base/**
+    * **_base.scss** - This file contains very basic styles.
+    * **_fonts.scss** - This file contains all @font-face declarations, if any.
+    * **_helpers.scss** - This file contains CSS helper classes.
+    * **_typography.scss** - Basic typography style for copy text  
+   * **base/**
+    * **_base.scss** - This file contains very basic styles.
+    * **_fonts.scss** - This file contains all @font-face declarations, if any.
+    * **_helpers.scss** - This file contains CSS helper classes.
+    * **_typography.scss** - Basic typography style for copy text
     
