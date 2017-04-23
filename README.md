@@ -32,7 +32,7 @@ sass --watch assets/styles/style.scss:style.css
 
 * **image/** - Contains all images
 * **plugins/** - All third-party libraries like wow.js , animate.css , bootstrap will be here. By default I included 4 libraries. They are -
-  * bootstrap
+  * [bootstrap](https://github.com/twbs/bootstrap)
 * **styles/**
   * **style.scss** - Contains all scss pertials
   * **abstracts/**
