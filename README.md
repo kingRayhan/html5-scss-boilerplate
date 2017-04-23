@@ -21,7 +21,7 @@ cd html5-scss-boilerplate
 ```
 sass --watch assets/styles/style.scss:style.css
 ```
-** For run this command compile all scss styles,  you must have to install [Ruby Gem](https://rubygems.org/) and [SASS](http://sass-lang.com/) previously. **
+** For run this command compile all scss styles,  you must have to install [Ruby Gem](https://rubygems.org/) and [SASS](http://sass-lang.com/) previously in your local machine. **
 
 <br>
 <br>
