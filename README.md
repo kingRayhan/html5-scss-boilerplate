@@ -46,4 +46,5 @@ sass --watch assets/styles/style.scss:style.css
     * **_typography.scss** - Basic typography style for copy text  
    * **components/** - This directory will holds your project's components partials scss files such as `_buttons.scss` , `_tab.scss` , `_accordion.scss` ...
    * **layout/** - This directory contains all styles of application layouts such as `_header.scss` , `_sidebar.scss` etc...
-    
+   * **pages/** - Page specific scss partials file will be here.
+   * **themes/** - If your project has several theme , then these theme specified scss pertials will be here.
