@@ -23,11 +23,15 @@ sass --watch assets/styles/style.scss:style.css
 ```
 ** For run this command compile all scss styles,  you must have to install [Ruby Gem](https://rubygems.org/) and [SASS](http://sass-lang.com/) previously. **
 
-
+<br>
+<br>
+<br><br>
+<br>
+<br>
 
 # File architecture
 <img src="http://i.imgur.com/yRp0ZSG.png">
-
+<a href="http://i.imgur.com/yRp0ZSG.png" target="_blank">See in better resolution</a>
 <br>
 <br>
 <br>
