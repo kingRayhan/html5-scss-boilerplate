@@ -17,11 +17,11 @@ sass --watch assets/styles/style.scss:style.css
 
 
 
-# File tree
+# File architecture
 <img src="http://i.imgur.com/iLdXZgz.png">
 
 <br>
 <br>
 <br>
 
-All assets file like images , javascripts , scss including third-party libraries will be in the `assets` folder.
+All assets file like images , javascripts , scss including third-party libraries will be in the `assets` folder. Only markup files ( .html , .php , .rb , .asp ...) and main style sheet ( style.css which will come in after compiling scss files ).
