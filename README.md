@@ -36,3 +36,7 @@ sass --watch assets/styles/style.scss:style.css
   * **style.scss** - Contains all scss pertials
   * **abstracts/**
     * **_functions.scss** - This file contains all application-wide Sass functions.
+    * **_mixins.scss** - This file contains all application-wide Sass mixins.
+    * **_mixins.scss** - This file contains all application-wide Sass mixins.
+    * **_variables.scss** - This file contains all application-wide Sass variables.
+    
