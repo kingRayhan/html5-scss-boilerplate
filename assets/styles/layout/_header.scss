@@ -32,9 +32,12 @@
             @include media-width(1109){font-size: 5em;}
             @include media-width(932){font-size: 4em;}
             @include media-width(754){font-size: 3.5em;}
+            @include media-width(600){font-size: 2.5em;}
         }
         p{
             font-size: 2em;
+            line-height: 2em;
+            @include media-width(600){font-size: 1.3em;}
         }
     }
 }
